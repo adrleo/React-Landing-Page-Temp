@@ -6,7 +6,7 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Preview Produk</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
@@ -18,7 +18,7 @@ export const Gallery = (props) => {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
+                    className="col-sm-11 col-md-5 col-lg-4 m-5"
                   >
                     <Image
                       title={d.title}

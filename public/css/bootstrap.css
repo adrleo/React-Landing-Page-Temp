@@ -1121,8 +1121,10 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
-  height: auto;
+  width: 100%; /* Ensures images take up the full width of their container */
+  height: auto; /* Maintains the aspect ratio */
+  object-fit: cover; /* Crops the image to fit the container */
+  aspect-ratio: 1 / 1; /* Ensures all images have a square aspect ratio */
 }
 .img-rounded {
   border-radius: 6px;
@@ -1142,6 +1144,12 @@ img {
 }
 .img-circle {
   border-radius: 50%;
+}
+.m-5{
+  margin: 5px;
+}
+.flex{
+  display: flex;
 }
 hr {
   margin-top: 20px;
@@ -2119,7 +2127,7 @@ pre code {
     width: 41.66666667%;
   }
   .col-lg-4 {
-    width: 33.33333333%;
+    width: 32%;
   }
   .col-lg-3 {
     width: 25%;

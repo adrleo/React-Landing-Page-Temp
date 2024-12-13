@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "ASoft",
+    "paragraph": "Permudah pengelolaan bisnis Anda dengan teknologi terkini."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Sejak 1997, kami berkomitmen untuk menghadirkan solusi ERP yang mudah digunakan, efisien, dan ramah investasi bagi bisnis di Indonesia. Dengan pengalaman lebih dari 25 tahun, ASoft telah menjadi mitra tepercaya bagi ratusan perusahaan.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,81 +20,81 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Inventori",
+      "largeImage": "img/portfolio/port1.png",
+      "smallImage": "img/portfolio/port1-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Penjualan",
+      "largeImage": "img/portfolio/port2.png",
+      "smallImage": "img/portfolio/port2-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Penjualan",
+      "largeImage": "img/portfolio/port3.png",
+      "smallImage": "img/portfolio/port3-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Cetak Faktur Pajak",
+      "largeImage": "img/portfolio/port4.png",
+      "smallImage": "img/portfolio/port4-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Piutang Monitoring",
+      "largeImage": "img/portfolio/port5.png",
+      "smallImage": "img/portfolio/port5-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "qvRep Penjualan",
+      "largeImage": "img/portfolio/port6.png",
+      "smallImage": "img/portfolio/port6-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Query Buku Besar",
+      "largeImage": "img/portfolio/port7.png",
+      "smallImage": "img/portfolio/port7-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Setup User",
+      "largeImage": "img/portfolio/port8.png",
+      "smallImage": "img/portfolio/port8-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Kartu Inventori Modal",
+      "largeImage": "img/portfolio/port9.png",
+      "smallImage": "img/portfolio/port9-small.png"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pembelian",
+      "text": "Permintaan, PO, DO supplier, penerimaan, dan pembelian"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Penjualan",
+      "text": "SO, Surat jalan, sales invoice, retur penjualan, dan penjualan DO."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Manajemen Gudang/Stock",
+      "text": "Distribusi antar gudang, penerimaan konsinyasi, distribusi kanvas, produksi, pemakaian, dan bongkar inventori."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Finance/Keuangan",
+      "text": "Voucher kas bank masuk/keluar, pelunasan hutang, pelunasan piutang, pelunasan giro, tanda terima hutang/piutang dan panjar/uang muka"
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Perpajakan",
+      "text": "Ekspor csv ke E-Faktur 4.0 & Integrasi CoreTax."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Keamanan",
+      "text": "User Login di setting sesuai otoritas/izin terkait"
     }
   ],
   "Testimonials": [
@@ -151,34 +151,46 @@
       "job": "Project Manager"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
+  "Branches": [
+    {
+      "name": "Head Office",
+      "address": "Kompleks Megacom Center Blok A No. 5-6-7, Jl. Kapten Muslim, Medan, Sumatera Utara",
+      "phone": "081-163-1168",
+      "email": "head-office@tssoft.co.id"
+    },
+    {
+      "name": "Branch Office - Jakarta",
+      "address": "Madison Park Tower Mahogany, Jl. Letjen S. Parman No.28, Jakarta Barat",
+      "phone": "081-1608-0678",
+      "email": "jakarta@tssoft.co.id"
+    },
+    {
+      "name": "Branch Office - Pekanbaru",
+      "address": "Kompleks Karya Bakti Sentosa No. H3, Jl. Karya Bakti, Pekanbaru, Riau",
+      "phone": "081-163-1168",
+      "email": "pekanbaru@tssoft.co.id"
+    }
+  ],
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "User Friendly ",
+      "text": "Sistem ASoft menggunakan bahasa Indonesia dan dirancang dengan GUI yang mudah dipahami sehingga mudah digunakan oleh semua kalangan user."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Modul yang lengkap ",
+      "text": "Sistem ASoft mempunyai modul yang lengkap mulai dari Pembelian, Penjualan, Multi Gudang / Manajemen Inventory & Stock Advanced, Fitur Lengkap Akuntansi ( Auto Posting Jurnal, Laba Rugi & Neraca) & Perpajakan"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Ramah Investasi",
+      "text": "Untuk implementasi sistem ASoft tidak diperlukan biaya yang besar karena ASoft dapat dioperasikan bahkan di client yang masih menggunakan windows XP. "
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "API yang lengkap",
+      "text": "Kami menyediakan API yang lengkap untuk integrasi dengan programprogram Eksternal seperti Export CSV E-Faktur 4.0 & CoreTax  dan program lainnya sesuai kebutuhan. "
     }
   ]
 }
