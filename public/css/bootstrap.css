@@ -45,6 +45,12 @@ template {
 a {
   background-color: transparent;
 }
+.white{
+  color: white;
+}
+.white:visited {
+  color: inherit; /* Same color as the unvisited link */
+}
 a:active,
 a:hover {
   outline: 0;

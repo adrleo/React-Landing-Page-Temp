@@ -117,15 +117,38 @@ export const Contact = (props) => {
                           </span>{" "}
                           {branch.phone}
                         </p>
-                        <p>
+                        {/* <p>
                           <span>
                             <i className="fa fa-envelope-o"></i> Email:
                           </span>{" "}
                           {branch.email}
-                        </p>
+                        </p> */}
                       </div>
                     ))
                   : "Loading..."}
+              </div>
+              <div style={{ marginTop: "20px" }}>
+                <p>
+                  {/* <span> */}
+                  <i className="fa fa-globe"></i>
+                  {/* </span>{" "} */}
+                  <a
+                    href="https://www.tssoft.co.id"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="white"
+                  >
+                    www.tssoft.co.id
+                  </a>
+                </p>
+                <p>
+                  {/* <span> */}
+                  <i className="fa fa-envelope"></i>
+                  {/* </span>{" "} */}
+                  <a className="white" href="mailto:sales@tssoft.co.id">
+                    sales@tssoft.co.id
+                  </a>
+                </p>
               </div>
             </div>
           </div>
