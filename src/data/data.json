@@ -67,7 +67,7 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-cart-shopping",
       "name": "Pembelian",
       "text": "Permintaan, PO, DO supplier, penerimaan, dan pembelian"
     },
@@ -77,12 +77,12 @@
       "text": "SO, Surat jalan, sales invoice, retur penjualan, dan penjualan DO."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-warehouse",
       "name": "Manajemen Gudang/Stock",
       "text": "Distribusi antar gudang, penerimaan konsinyasi, distribusi kanvas, produksi, pemakaian, dan bongkar inventori."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-coins",
       "name": "Finance/Keuangan",
       "text": "Voucher kas bank masuk/keluar, pelunasan hutang, pelunasan piutang, pelunasan giro, tanda terima hutang/piutang dan panjar/uang muka"
     },
@@ -92,63 +92,9 @@
       "text": "Ekspor csv ke E-Faktur 4.0 & Integrasi CoreTax."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-shield",
       "name": "Keamanan",
       "text": "User Login di setting sesuai otoritas/izin terkait"
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Branches": [
@@ -173,22 +119,22 @@
   ],
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-user-group",
       "title": "User Friendly ",
       "text": "Sistem ASoft menggunakan bahasa Indonesia dan dirancang dengan GUI yang mudah dipahami sehingga mudah digunakan oleh semua kalangan user."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-desktop",
       "title": "Modul yang lengkap ",
       "text": "Sistem ASoft mempunyai modul yang lengkap mulai dari Pembelian, Penjualan, Multi Gudang / Manajemen Inventory & Stock Advanced, Fitur Lengkap Akuntansi ( Auto Posting Jurnal, Laba Rugi & Neraca) & Perpajakan"
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-cloud",
       "title": "Ramah Investasi",
       "text": "Untuk implementasi sistem ASoft tidak diperlukan biaya yang besar karena ASoft dapat dioperasikan bahkan di client yang masih menggunakan windows XP. "
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-gear",
       "title": "API yang lengkap",
       "text": "Kami menyediakan API yang lengkap untuk integrasi dengan programprogram Eksternal seperti Export CSV E-Faktur 4.0 & CoreTax  dan program lainnya sesuai kebutuhan. "
     }
